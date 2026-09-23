@@ -25,4 +25,7 @@ Escolha `1` para jogar manualmente ou `2` para ver o computador resolver. Inform
 | Laís Joana Marcondes da Rocha RA: 2809010 |
 |  |
 
+## Exemplo de recursividade realizada pelo jogo ao pedir para o computador resolver (3 discos)
+<img width="1591" height="1600" alt="exemplo_recursividade" src="https://github.com/user-attachments/assets/ecfb807c-464c-4a86-8e21-071906a5f3ae" />
+
 
